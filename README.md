@@ -38,6 +38,6 @@ El Procesador de Archivos Excel es una librería de JavaScript que permite carga
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
-## Contacto
-
-Si tienes alguna pregunta o comentario, puedes contactarme a través de [tu dirección de correo electrónico o perfil en línea].
+## Referencia
+Usa el codigo de: 
+https://github.com/catamphetamine/read-excel-file
